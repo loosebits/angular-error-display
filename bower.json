@@ -1,0 +1,16 @@
+{
+  "name": "angular-error-display",
+  "main": "angular-error-display.js",
+  "version": "1.0.0",
+  "authors": [
+    "Rand McNeely <randall_mcneely@bcbstx.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
